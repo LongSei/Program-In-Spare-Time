@@ -1,0 +1,3 @@
+- Chạy file bên bằng Terminal
+Window .\CANBANGLS
+Linux ./CANBANGLS
