@@ -1,6 +1,4 @@
 - Chạy file bên bằng Terminal
-Window .\CANBANGLS
-Linux ./CANBANGLS
 
 - Rồi nhập Phương trình cần cân bằng
 Ví dụ: 
