@@ -9,4 +9,3 @@
 + file ghi ra của 2 code trên là "test.out" và "test.ans"
 
 Khi chuẩn bị xong các bước trên thì chạy file so test để chấm thử 
-"CHÚC CÁC BẠN THÀNH CÔNG !!"
