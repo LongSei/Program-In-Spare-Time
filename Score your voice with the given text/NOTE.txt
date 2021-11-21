@@ -1,5 +1,5 @@
 Step 1: You need to install these module before using this code:
 pip install pyaudio 
 pip install speech_recognition
-Step 2: Then create 2 files: recorded_text.txt and test.txt in your folder that include this code
-Step 3: ENJOY IT :>
+pip install playsound
+Step 2: Running Main.py file
