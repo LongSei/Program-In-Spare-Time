@@ -1,12 +1,3 @@
-# import speech_recognition as sr
-# from os import path
-
-# # files                                                                         
-# src = "15.mp3"
-# dst = "15.wav"
-
-# # convert wav to mp3                                                            
-# sound = AudioSegment.from_mp3(src)
 import speech_recognition as sr 
 import os 
 from pydub import AudioSegment
