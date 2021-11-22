@@ -1,3 +1,4 @@
 Module: 
-pip install speech_recognition
-pip install pydub
+- pip install speech_recognition
+- pip install pydub
+- ffmpeg
